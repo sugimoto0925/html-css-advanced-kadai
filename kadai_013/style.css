@@ -59,6 +59,9 @@ PC用のスタイル
   #nav-pc>a:active {
     color: #0d0d0d;
   }
+  #menu-sp {
+    display: none;
+  }
 }
 
 /*====================
