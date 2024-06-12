@@ -28,6 +28,7 @@ PC用のスタイル
     display: flex;
     justify-content: space-between;
   }
+  
 
   /* ナビゲーションのレイアウト */
   #nav-pc {
@@ -72,11 +73,13 @@ PC用のスタイル
   #nav-pc {
     display: none;
   }
+  
   /* ハンバーガーメニュー */
   #menu-sp {
     float: right;
     padding: 0;
   }
+
   /* スマホ用ナビゲーション */
   #nav-sp {
     background-color: #ce933e;
@@ -88,16 +91,19 @@ PC用のスタイル
     display: none;
     z-index: 100;
   }
+
   /* xボタン */
   #close {
     position: absolute;
     top: 20px;
     right: 20px;
   }
+
   /* ナビゲーションメニュー用ロゴ */
   #logo-sp {
     margin: 80px 0 30px 20px;
   }
+  
   /* ナビゲーションのリンクの装飾設定 */
   #nav-sp > a {
     display: block;
